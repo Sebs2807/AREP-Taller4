@@ -86,7 +86,7 @@ La arquitectura sigue un diseño **cliente-servidor**, donde:
 
 4. Acceder desde el navegador con la IP pública de la instancia:
    
-   [http://<IP_PUBLICA>:42000/hola](http://3.80.58.163:8080)
+   http://<IP_PUBLICA>:42000/hola
 
 ## 📸 Pruebas realizadas
 
@@ -114,4 +114,4 @@ Vista del contenedor corriendo en AWS (docker ps).
 ![alt text](images/image-4.png)
 
 ## 🎥 Video
-
+[Video de prueba de los despliegues](https://drive.google.com/uc?id=1i1igce-mjN6jthYduhjMgGUGRZD4ee4W&export=download)
